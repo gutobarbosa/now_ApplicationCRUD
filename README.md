@@ -32,6 +32,9 @@ $ git clone https://github.com/gutoisa/now_ApplicationCRUD.git
 # Go to project's web folder
 $ cd web/
 
+# Go to project's server folder
+$ cd server/
+
 # Install dependencies
 $ yarn install or npm install
 
